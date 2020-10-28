@@ -1,3 +1,3 @@
 # test-cirle-ci
 simple project for studying circle ci
-test1
+test2
